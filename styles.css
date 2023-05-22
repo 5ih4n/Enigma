@@ -32,3 +32,8 @@ label{
     color: var(--imperial);
     font-size: 100px;
 }
+
+h1{
+    color: var(--imperial);
+    font-size: 90px;
+}
